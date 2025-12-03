@@ -1,0 +1,15 @@
+## Interface: 110205
+## Title: SmartTooltip
+## Notes: Advanced tooltip positioning with configurable anchors and offsets
+## Author: Paulo Vitor Nascimento (Sir_Linho)
+## Version: 2.0.0
+## SavedVariables: SmartTooltipDB
+
+# Libraries
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+
+# Localization files
+Locale\Locale.xml
+
+# Main addon file
+SmartTooltip.lua
